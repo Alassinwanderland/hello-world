@@ -1,2 +1,3 @@
 # hello-world
 Project Outline
+Trying to help by deisgning costumes IRL and scanning them to make 3d models. Could use some suggestions on tutorials or courses on how to edit a 3d scan in blender as well as where I should post finished projects. I am planning to make patterns and video tutorials for making IRL versions of the costumes, 3d print and geometric paper templates for some of the items. Some of the textures will also be printable on fabrics and there are a few embrodery machine files. VERY NEW I am just starting to learn blender. Suggestions for a new person using blender are welcome.
